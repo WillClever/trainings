@@ -76,3 +76,9 @@ Team DevOps / Github clever IT
 -William Quintero [@WillClever]
 
 # Soporte/Contacto
+
+# Uso expresion regular para ajustar los paths
+```
+!\[.*\]\(([^)]*)\)
+![$1](media/$1)
+```
