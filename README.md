@@ -1,6 +1,6 @@
 # trainings
 Presentations As a Code
-![by @willclever](https://github.com/WillClever/trainings/tree/gh-pages/media/trainingsclever.png "Trainings Clever")
+![by @willclever](https://github.com/WillClever/trainings/blob/gh-pages/media/trainingsclever.png "Trainings Clever")
 
 # Información
 En este repositorio estara toda la informacion acerca de los trainings para clever !
@@ -61,9 +61,7 @@ https://github.com/gitpitch/gitpitch
 ##### about:debugging
 
 
-# icono referencia :
-
-![by @SantiagoRocha](https://raw.githubusercontent.com/wil7y/MalwareSanti/master/Pictures/Malware5.PNG  "Malware Santi icon")
+# referencia :
 
 
 # Colaboradores ⌨️
