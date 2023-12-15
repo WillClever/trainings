@@ -8,30 +8,9 @@
 
 **
 
-**
-
-**
 
 
 ` `**![Aspose.Words.8768a7d6-8fb4-47e6-9d15-73397e430213.008.png](media/Aspose.Words.8768a7d6-8fb4-47e6-9d15-73397e430213.008.png)**
-**
-
-**
-
-**
-
-**
-
-**
-
-**
-
-**
-
-**
-
-**
-
 **
 
 **
@@ -235,9 +214,6 @@ CleverIT -Confidencial \Externos
 
 ![ref4]
 **
-
-**
-
 
 ![ref4]
 
