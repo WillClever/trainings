@@ -2,7 +2,7 @@
 ![Training](https://github.com/WillClever/trainings/blob/gh-pages/media/trainingsclever.png)
 # 🧠 HeadsOps GitHub Team 🦾
 Presentations As a Code
-![by @willclever]()
+![by @willclever](https://github.com/WillClever/trainings/blob/v1/media/headsOps.jpg)
 
 # Información
 En este repositorio estara toda la informacion acerca de los trainings para clever !
@@ -11,9 +11,9 @@ Funciones Disponibles
 - Crear Presentaciones apartir de templates en reveal JS
 - Configurar CSS
 - Pitch(guiones) de cada una de las siguientes presentaciones
-    - Git / GitHub [Canva](https://www.canva.com/design/DAF24LSIp6c/GZpDFDObL91bn7BgCJfh5A/edit?utm_content=DAF24LSIp6c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) , [Guiones]()
+    - Git / GitHub [Canva](https://www.canva.com/design/DAF24LSIp6c/GZpDFDObL91bn7BgCJfh5A/edit?utm_content=DAF24LSIp6c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) , [Guiones](https://github.com/WillClever/trainings/blob/v1/media/Guiones/git-github.md)
     - Cultura DevOps [Canva](https://www.canva.com/design/DAF248rMD48/4XoO_25PQmMDV7NklH_wIQ/edit?utm_content=DAF248rMD48&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) ,
-    [Guiones]()
+    [Guiones](https://github.com/WillClever/trainings/blob/v1/media/Guiones/github-knowledge.md)
     - Git Knowledge [Canva](https://www.canva.com/design/DAF2-ANrJCA/flWS-HAgt47Gvifrrfcivw/edit?utm_content=DAF2-ANrJCA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton),
     [Guiones]()
     - Git Hands On [Canva](https://www.canva.com/design/DAF3Aru51yI/BHr_gaQf7PTp3qckjihfUg/edit?utm_content=DAF3Aru51yI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton),
@@ -34,16 +34,17 @@ Funciones Disponibles
 - Install Node.js (10.0.0 or later)
 - Hacer clone del repositorio
 ```
-git clone https://github.com/wil7y/MalwareSanti.git
+git clone https://github.com/hakimel/reveal.js.git
 ```
-- cd reveal.js && npm install
+- Move to the reveal.js folder and install dependencies
 ```
-git clone https://github.com/wil7y/MalwareSanti.git
+cd reveal.js && npm install
 ```
 Serve the presentation and monitor source files for changes
 ```
 npm start
 ```
+Open http://localhost:8000 to view your presentation
 
 # Slides SSH 🚀
 - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -72,11 +73,11 @@ https://github.com/gitpitch/gitpitch
 # Colaboradores ⌨️
 
 Team DevOps / Github clever IT
--Gabriel Berlot
--Sebastian Ramos
--Ramiro Garcia
--Joan Aliberti
--William Quintero [@WillClever]
+- [Gabriel Berlot]()
+- [Sebastian Ramos](https://github.com/sebastianramospina)
+- [Ramiro Garcia](https://github.com/ramirogarcia-clever)
+- [Joan Aliberti](https://github.com/JoanAliberti)
+- [William Quintero]() [@WillClever]
 
 # Soporte/Contacto
 
