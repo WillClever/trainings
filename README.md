@@ -56,6 +56,23 @@ https://github.com/ivantsepp/ssh-slides
 
 ##### about:debugging
 
+# SliDev 🚀
+- - - - - - - - - - - - - - - - - - - - - - - - -
+
+- Abrir el navegador.
+- Slidev requires Node.js >=18.0
+```
+npm init slidev@latest
+npm install @slidev/cli @slidev/theme-default
+touch slides.md
+npx slidev
+echo 'shamefully-hoist=true' >> .npmrc
+```
+- Info como usar slides SH
+https://sli.dev/guide/install.html#starter-template
+
+##### about:debugging
+
 # Gitpitch 🚀
 - - - - - - - - - - - - - - - - - - - - - - - - -
 
