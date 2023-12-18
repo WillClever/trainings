@@ -38,7 +38,7 @@ jobs:
         git config --global user.email "WilliamQuintero@Clever.com"
         git config --global user.name "William Quintero"
         echo "machine github.com login your-username password ${{ secrets.GITHUB_TOKEN }}" > ~/.netrc
-        git push origin main
+        git push origin v2
       env:
        GITHUB_TOKEN: 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
 # prueba de deploy PRUEBA, no despliega
