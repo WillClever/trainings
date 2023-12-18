@@ -34,8 +34,11 @@ jobs:
       run: npm test  
 
     - name: Deploy to GitHub Pages
-      uses: peaceiris/actions-gh-pages@v3
-      with:
-        deploy_key: "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" 
-        publish_dir: ./presentation
+      run: |
+        git config --global user.email "WilliamQuintero@Clever.com"
+        git config --global user.name "William Quintero"
+        echo "machine github.com login your-username password ${{ secrets.GITHUB_TOKEN }}" > ~/.netrc
+        git push origin main
+      env:
+       GITHUB_TOKEN: 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
 # prueba de deploy PRUEBA, no despliega
